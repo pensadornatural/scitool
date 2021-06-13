@@ -6,7 +6,7 @@ SciTool es una librería JavaScript diseñada para escribir 100% en JavaScript e
 
 ## Uso
 
-Se debe importar el archivo **scitool.min.js** en el *index.html* como cualquier librería, y escribir el programa con JavaScript y SciTool entre etiquetas **<script></script>** dentro del **<body>** o en archivos *.js* como componentes. El archivo *scitool.js* solo conviene usarlo para depuración, pues pesa el doble que el archivo minificado.
+Se debe importar el archivo **scitool.min.js** en el *index.html* como cualquier librería, y escribir el programa con JavaScript y SciTool entre etiquetas **<script></script>** dentro del **<body></body>** o en archivos *.js* como componentes. El archivo *scitool.js* solo conviene usarlo para depuración, pues pesa el doble que el archivo minificado.
 Se recomienda que cada documento (ventana) o componente se escriba en un archivo aparte, para lograr una estructura clara que ayude a la mantención o actualización del software, y que además permita su reutilización en otros proyectos.
 Para crear una aplicación web, se escriben sentencias como *AddDocument* para crear un nuevo documento, *AddButton*, *AddLabel*, etc. para crear objetos de la interfaz de usuario dentro del documento, y codificar sus eventos que SciTool crea automáticamente como funciones nombradas con el mismo nombre de los objetos seguido del nombre del evento.
 
