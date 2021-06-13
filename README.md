@@ -10,7 +10,7 @@ Se debe importar el archivo *scitool.min.js* en el *index.html* como cualquier l
 
 Se recomienda que cada documento (ventana) o componente se escriba en un archivo aparte, para lograr una estructura clara que ayude a la mantención o actualización del software, y que además permita su reutilización en otros proyectos.
 
-Para crear una aplicación web, se escriben sentencias como *AddDocument* para crear un nuevo documento, *AddButton*, *AddLabel*, etc. para crear objetos de la interfaz de usuario dentro del documento, y codificar sus eventos que SciTool crea automáticamente como funciones nombradas con el mismo nombre de los objetos seguido del nombre del evento.
+Para crear una aplicación web, se escriben sentencias como *AddDocument* para crear un nuevo documento, *AddButton*, *AddLabel*, etc. para crear objetos de la interfaz de usuario dentro del documento, y código en sus eventos que SciTool crea automáticamente como funciones nombradas con el mismo nombre de los objetos seguido del nombre del evento.
 
 ### Características:
 
