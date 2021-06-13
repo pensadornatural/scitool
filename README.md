@@ -28,7 +28,7 @@ Para crear una aplicación web, se escriben sentencias como *AddDocument* para c
   
 ### ¡Hola mundo!
 
-El siguiente código crea un documento flotante con el mensaje *!Hola mundo!* que aparece automáticamente cuando se carga. Aunque pudo haberse escrito todo en el mismo archivo *index.html*, se prefirió separar el documento flotante en un archivo aparte llamado *DocHolaMundo.js* para ejemplificar el uso de componentes.
+El siguiente código crea un documento flotante con el mensaje *¡Hola mundo!* que aparece automáticamente cuando se carga. Aunque pudo haberse escrito todo en el mismo archivo *index.html*, se prefirió separar el documento flotante en un archivo aparte llamado *DocHolaMundo.js* para ejemplificar el uso de componentes.
 
 Archivo: index.html
 ```
