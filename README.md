@@ -66,6 +66,8 @@ Este proyecto es open source, y queda disponible a la comunidad tanto para su us
 
 El proyecto solo contiene un archivo de código fuente, en TypeScript, llamado *scitool.ts*. Puedes tomar uno de los issues o proponer uno nuevo, y luego crea una rama para desarrollarlo editando el archivo. Cuando termines, realiza un Pull Request.
 
+Toda ayuda es bienvenida. Muchísimas gracias.
+
 # Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
